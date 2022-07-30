@@ -14,7 +14,7 @@ Tab:AddTextbox({
 	Callback = function(v)
 		if v == "a"
 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfy6848/"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wolfy6848/WolfHub/main/Main..lua"))()
 else
 	    print("Incorrect Key!")
 	    end
